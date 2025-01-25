@@ -17,3 +17,5 @@ contract SHINU is Ownable, ERC20{
     }
     
  }
+
+
